@@ -20,7 +20,7 @@
 - :school: I am a `Software Engineer`, Currently working at Pedalsup Innovation LLP
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1_cLy6mNiQLirLkCu8FVpMODcpjnr-uYs/view?usp=sharing).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1S2cA7-FhUN63C0pWVXD0sPkVO7dhXAKX/view?usp=drive_link).
 - :nerd_face: `Eager to learn new things`
 <br></br>
 ##  Github Stats
@@ -42,8 +42,8 @@
 <p align="center">
 	<a href="mailto:dhameliyapratik00@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/PratikHdhameliya"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/qr/7ZBX5UZVBNURM1"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/priyesh-chikhaliya-a11753151"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://wa.me/+4917647175556"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/pratik-dhameliya-62287b159/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </p>
 
@@ -66,22 +66,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://badges.aleen42.com/src/react.svg">
-  </a> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
- 
-</p>
+
 
  ### 👉 Software & Tools
  
@@ -95,8 +80,7 @@
    &emsp;
     <a href="https://www.json.org/json-en.html"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a> 
   &emsp;
-    <a href="https://playwright.dev/"><img alt="playwright" src="https://img.shields.io/badge/Playwright-v0.2.6-green?style=plastic&logo=appveyor"></a>
-  &emsp;
+   
 
   
 
