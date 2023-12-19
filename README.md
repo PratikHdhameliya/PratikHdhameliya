@@ -103,7 +103,7 @@
 
 ## Recent Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikHdhameliya&hide=jupyter%20notebook&hide_title=true)](https://github.com/PratikHdhameliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikHdhameliya&hide_title=true)](https://github.com/PratikHdhameliya/github-readme-stats)
 
 
 ## All Languages So Far
