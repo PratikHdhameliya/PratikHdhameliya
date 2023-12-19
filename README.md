@@ -17,7 +17,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: I am a `Mathematical Data Science at Universität Göttingen`
+- :school: I am studing `Mathematical Data Science at Universität Göttingen`
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
 - :thinking: This is [MY RESUME](https://drive.google.com/file/d/1S2cA7-FhUN63C0pWVXD0sPkVO7dhXAKX/view?usp=drive_link).
@@ -90,10 +90,6 @@
 <p align="center">
   &emsp;
     <a href="https://www.codewars.com/users/PratikHdhameliya"><img alt = "Codewars" src="https://img.shields.io/badge/Codewars-5%20KYU-orange?style=plastic&logo=appveyor" /></a>
-&emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-<!--   &emsp;
-    <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a> -->
 </p>
 
  ### 👉 Operating Systems
