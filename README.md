@@ -53,7 +53,7 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://education.rstudio.com/learn/beginner/" target="_blank"> 
      <img alt="R-studio" src="https://img.shields.io/badge/R-studio?label=R-Studio&color=%2371A5D4">
    </a>
   &emsp;   
