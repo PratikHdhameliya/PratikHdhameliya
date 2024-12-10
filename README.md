@@ -20,7 +20,7 @@
 - :school: I am studing `Mathematical Data Science at Universität Göttingen`
 - :technologist: I love  `Problem Solving`
 - :computer: I am a competitive programmer mainly at `Codewars`
-- :thinking: This is [MY RESUME](https://drive.google.com/drive/my-drive).
+- :thinking: This is [MY RESUME](https://drive.google.com/file/d/1JNcT6bo9mYiikFkbfAsnTMy26VDUk6cc/view).
 - :nerd_face: `Eager to learn new things`
 <br></br>
 ##  Github Stats
