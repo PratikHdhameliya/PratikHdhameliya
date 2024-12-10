@@ -60,6 +60,11 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  &emsp; 
+   <a href="https://www.mysql.com" target="_blank">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+
 </p>
 
 
