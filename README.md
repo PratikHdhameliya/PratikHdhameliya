@@ -73,21 +73,24 @@
  
 <p align="center">
   &emsp;
+    <a href="https://powerbi.microsoft.com/"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=plastic&logo=powerbi&logoColor=black"></a>
+  &emsp;
+   <a href="https://www.mysql.com" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white">
+  </a>
+  &emsp;
+    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+## 👉 Cloud Computing & DevOps
+
+<p align="center">
+  &emsp;
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-   
-
-  
-
-</p>
-
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazonaws&logoColor=white"></a>
 </p>
 
  ### 👉 Competitive Programming & Problem Solving
@@ -101,8 +104,11 @@
  
 <p align="center">
   &emsp;
-    <a href="https://www.microsoft.com/en-in/windows?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
+    <a href="https://www.microsoft.com/en-in/windows?r=1"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
 </p>
+
 
 <br/>
 
